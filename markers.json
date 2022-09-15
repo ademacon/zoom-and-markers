@@ -1,0 +1,40 @@
+{
+  "markers": [
+    {
+      "lattitude": "48.98022",
+      "longitude": "-68.99414",
+      "type": "video",
+      "src": "nom_du_fichier.mp4",
+      "titre": "Titre",
+      "description": "Description",
+      "pitch": "Description longue"
+    },
+    {
+      "lattitude": "18.89589",
+      "longitude": "128.67188",
+      "type": "image",
+      "src": "nom_du_fichier.jpg",
+      "titre": "Titre",
+      "description": "Description",
+      "pitch": "Description longue"
+    },
+    {
+      "lattitude": "62.55286",
+      "longitude": "-85.69336",
+      "type": "audio",
+      "src": "nom_du_fichier.wav",
+      "titre": "Titre",
+      "description": "Description",
+      "pitch": "Description longue"
+    },
+    {
+      "lattitude": "67.94165",
+      "longitude": "-84.375",
+      "type": "pdf",
+      "src": "nom_du_fichier.pdf",
+      "titre": "Titre",
+      "description": "Description",
+      "pitch": "Description longue"
+    }
+  ]
+}
