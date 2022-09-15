@@ -5,4 +5,4 @@ Avec l'aide d'une requête Ajax dans le fichier `app.js vous` pourrez alimenter 
 
 Un exemple de site réalisé avec ce gestionnaire de Markers [datcha.fun](https://datcha.fun)
 
-## Plus d'informations à propos de ce projet est disponible ici : [antoine.world/](https://antoine.world/page/datcha)
+### Plus d'informations à propos de ce projet est disponible ici : [antoine.world/](https://antoine.world/page/datcha)
